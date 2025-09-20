@@ -39,4 +39,15 @@
 
 ---
 
+## 📌 Projects
+- **[Resume Builder Web App](https://github.com/MohdFaizan63/resume-builder)** *(MERN Stack)*  
+  Full-stack resume builder with real-time editing, multiple templates, and one-click PDF export.  
+  Features secure JWT & Google OAuth authentication, responsive UI, and >99% production uptime.  
+
+- **[Universal Review Platform](https://github.com/MohdFaizan63/universal-review-platform)**  
+  A platform to review everything — apps, movies, services, hospitals, and more.  
+  Built with React.js, TailwindCSS, WebSockets, and JWT/OAuth authentication.  
+
+---
+
 ⭐ From [MohdFaizan63](https://github.com/MohdFaizan63)
