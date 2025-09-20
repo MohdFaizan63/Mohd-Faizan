@@ -17,9 +17,9 @@
 
 ## 🚀 Languages and Tools:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,html,css,react,next,nodejs,express,redux,mongodb,postgresql,git,github,postman,vscode,vercel,tailwind,java,c,linux,docker,aws,figma" />
-
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,html,css,react,next,nodejs,express,redux,mongodb,postgresql,git,github,postman,vscode,vercel,tailwind,java,c,linux,docker,aws,figma&perline=7&size=60" />
 </p>
+
 
 ---
 
